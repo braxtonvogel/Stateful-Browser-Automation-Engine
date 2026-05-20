@@ -43,11 +43,11 @@ This engine can be adapted for:
 
 ### Initial Setup / Login
 
-![Login Setup](screenshots/finished.png)
+![Login Setup](Screenshots/finished.png)
 
 ### Automated Navigation in Action
 
-![Automation Running](screenshots/in_action.png)
+![Automation Running](Screenshots/in_action.png)
 
 ---
 
