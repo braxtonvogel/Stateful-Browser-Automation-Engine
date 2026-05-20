@@ -1,0 +1,9 @@
+
+---
+
+# 📦 requirements.txt
+
+Keep it simple:
+
+```txt
+playwright
