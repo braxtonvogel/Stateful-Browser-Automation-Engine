@@ -19,11 +19,11 @@ It is designed as a reusable foundation for building more advanced automation sy
 
 ## Key Features
 
-- 🔐 Persistent authentication using saved browser state
-- 🌐 Automated navigation of web pages
-- ⚡ Fast session reuse without repeated login
-- 🧠 Stateful browser context management
-- 🛠 Built on Playwright (Chromium automation)
+- Persistent authentication using saved browser state
+- Automated navigation of web pages
+- Fast session reuse without repeated login
+- Stateful browser context management
+- Built on Playwright (Chromium automation)
 
 ---
 
@@ -42,9 +42,11 @@ This engine can be adapted for:
 ## Screenshots
 
 ### Initial Setup / Login
+
 ![Login Setup](screenshots/finished.png)
 
 ### Automated Navigation in Action
+
 ![Automation Running](screenshots/in_action.png)
 
 ---
