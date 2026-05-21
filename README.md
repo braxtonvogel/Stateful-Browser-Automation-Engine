@@ -41,13 +41,13 @@ This engine can be adapted for:
 
 ## Screenshots
 
-### Initial Setup / Login
-
-![Login Setup](Screenshots/finished.png)
-
 ### Automated Navigation in Action
 
 ![Automation Running](Screenshots/in_action.png)
+
+### Final Product 
+
+![Login Setup](Screenshots/finished.png)
 
 ---
 
